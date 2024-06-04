@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.static_framework = true
   s.requires_arc     = true
-  s.vendored_frameworks = "Dev/OpenBiddingHelper.xcframework"
+  s.vendored_frameworks = "OpenBiddingHelper.xcframework"
 
   s.dependency 'BidmadSDK-Dev', '>=6.7.0', '<6.8.0'
 

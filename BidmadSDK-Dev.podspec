@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   
   s.static_framework = true
   s.requires_arc     = true
-  s.vendored_frameworks = "Dev/BidmadSDK.xcframework"
+  s.vendored_frameworks = "BidmadSDK.xcframework"
   s.resource_bundles = {'BidmadSDK_Privacy' => ['Resources/PrivacyInfo.xcprivacy']}
 
   s.dependency 'GoogleUserMessagingPlatform', '2.1.0'
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   
   s.subspec 'ForFlutter' do |forflutter|
     forflutter.platform = :ios, "12.0"
-    forflutter.vendored_frameworks = "Dev/BidmadSDK.xcframework"
+    forflutter.vendored_frameworks = "BidmadSDK.xcframework"
     forflutter.dependency 'Flutter'
   end
 

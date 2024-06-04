@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/adop-devel/BidmadSDK-CocoaPods.git', :tag => 'BidmadGoogleAdMobAdapter-Dev.11.2.0.1' }
   s.static_framework = true
   s.requires_arc     = true
-  s.vendored_frameworks = "Dev/BidmadGoogleAdMobAdapter.xcframework"
+  s.vendored_frameworks = "BidmadGoogleAdMobAdapter.xcframework"
   s.swift_version = '5.0'
 
   s.dependency 'BidmadSDK-Dev', '>=6.7.0', '<6.8.0'

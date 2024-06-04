@@ -8,14 +8,14 @@ Pod::Spec.new do |s|
   s.homepage     = "https://bidmad.net"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Markus" => "markus@adop.cc" }
-  s.source       = { :git => 'https://github.com/bidmad/cocoapod.git', :tag => 'BidmadSDK-Dev.6.7.0' }
+  s.source       = { :git => 'https://github.com/adop-devel/BidmadSDK-CocoaPods.git', :tag => 'BidmadSDK-Dev.6.7.0' }
     
   s.swift_version = '5.0'
   s.default_subspec = 'ForNative'
   
   s.static_framework = true
   s.requires_arc     = true
-  s.vendored_frameworks = "BidmadSDK.xcframework"
+  s.vendored_frameworks = "Dev/BidmadSDK.xcframework"
   s.resource_bundles = {'BidmadSDK_Privacy' => ['Resources/PrivacyInfo.xcprivacy']}
 
   s.dependency 'GoogleUserMessagingPlatform', '2.1.0'
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   
   s.subspec 'ForFlutter' do |forflutter|
     forflutter.platform = :ios, "12.0"
-    forflutter.vendored_frameworks = "BidmadSDK.xcframework"
+    forflutter.vendored_frameworks = "Dev/BidmadSDK.xcframework"
     forflutter.dependency 'Flutter'
   end
 

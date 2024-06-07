@@ -14,6 +14,7 @@
 @property (nonatomic) NSString * _Nullable zoneID;
 - (nonnull instancetype)init;
 - (void)requestNativeAd;
+- (CGSize)setAdView:(UIViewController * _Nonnull)viewController adView:(BIDMADNativeAdView * _Nonnull)adView defaultSize:(CGSize)defaultSize;
 - (void)setAdView:(UIViewController * _Nonnull)viewController adView:(BIDMADNativeAdView * _Nonnull)adView;
 - (void)removeAdView:(BIDMADNativeAdView * _Nonnull)adView;
 - (BOOL)isLoaded;

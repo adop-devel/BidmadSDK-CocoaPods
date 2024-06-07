@@ -22,11 +22,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, weak) id<BidmadBannerAdapterDelegate> delegate;
 @property (nonatomic, strong) BidmadAdUnit *adUnit;
-@property (nonatomic) BOOL isWidthExpandable;
 
 - (void)loadAdFrom:(UIViewController *)viewController
               with:(void (^)(BidmadBannerAdapter * _Nullable,
                              UIView * _Nullable,
+                             CGSize,
                              NSError * _Nullable))completionHandler;
 - (instancetype)initWithAdUnit:(BidmadAdUnit *)adUnit;
 

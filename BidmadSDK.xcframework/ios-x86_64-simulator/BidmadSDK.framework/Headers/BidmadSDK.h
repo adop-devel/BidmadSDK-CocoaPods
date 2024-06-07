@@ -54,3 +54,5 @@ FOUNDATION_EXPORT const unsigned char BidmadSDKVersionString[];
 #import <BidmadSDK/NSArray+HigherOrderFunctionsForADOP.h>
 #import <BidmadSDK/ADOPLog.h>
 #import <BidmadSDK/BidmadLoadStatus.h>
+#import <BidmadSDK/BidmadBannerSizeStrategy.h>
+#import <BidmadSDK/BidmadErasableView.h>

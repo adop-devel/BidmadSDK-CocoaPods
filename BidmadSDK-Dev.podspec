@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BidmadSDK-Dev"
-  s.version      = "6.7.0.1"
+  s.version      = "6.7.0.2"
   s.platform     = :ios, "12.0"
   s.summary      = "Integrated App Monetization Solution for Mobile Apps by all Publishers"
   s.description  = "BidmadSDK allows users to communicate with Compass by ADOP. Our mediation platform optimizes for the utmost profit."

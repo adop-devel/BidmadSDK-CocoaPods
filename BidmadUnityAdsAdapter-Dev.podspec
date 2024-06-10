@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name             = "BidmadUnityAdsAdapter-Dev"
-  s.version          = "4.9.3.1.1"
+  s.version          = "4.9.3.1.2"
   s.platform         = :ios, "12.0"
   s.summary          = "Integrated App Monetization Solution for Mobile Apps by all Publishers"
   s.description      = "BidmadSDK Mediation Adapter for UnityAds"
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = "BidmadUnityAdsAdapter.xcframework"
   s.swift_version = '5.0'
 
-  s.dependency 'BidmadSDK-Dev', '>=6.7.0.1', '<6.8.0'
+  s.dependency 'BidmadSDK-Dev', '>=6.7.0.2', '<6.8.0'
   s.dependency 'UnityAds', '4.9.3'
 
 end

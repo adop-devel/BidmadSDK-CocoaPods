@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "OpenBiddingHelper-Dev"
-  s.version      = "6.7.0.1"
+  s.version      = "6.7.0.2"
   s.platform     = :ios, "12.0"
   s.summary      = "OpenBiddingHelper is for Open Bidding Ads."
   s.description  = "OpenBiddingHelper is for Open Bidding Ads and is a wrapper provided by ADOP."
@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
   s.requires_arc     = true
   s.vendored_frameworks = "OpenBiddingHelper.xcframework"
 
-  s.dependency 'BidmadSDK-Dev', '>=6.7.0.1', '<6.8.0'
+  s.dependency 'BidmadSDK-Dev', '>=6.7.0.2', '<6.8.0'
 
 end

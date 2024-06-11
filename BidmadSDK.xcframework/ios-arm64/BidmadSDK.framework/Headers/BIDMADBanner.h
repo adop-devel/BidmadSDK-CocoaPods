@@ -21,7 +21,8 @@
                 adWidth:(CGFloat)adWidth
                adHeight:(CGFloat)adHeight
                strategy:(BidmadBannerSizeStrategy)strategy
-              keyWindow:(UIWindow * _Nonnull)keyWindow;
+              keyWindow:(UIWindow * _Nonnull)keyWindow
+                  error:(NSError * _Nullable * _Nonnull)error;
 - (void)cleanPreviousAdView;
 
 @end

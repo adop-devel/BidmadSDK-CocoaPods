@@ -24,7 +24,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) OpenBiddingFlutterNativeAdViewFactory * _Nullable nativeAdViewFactory;
 @property (nonatomic, strong) NSMutableDictionary<NSString *, OpenBiddingBanner *> *bannerAds;
 @property (nonatomic, strong) OpenBiddingFlutterBannerRefinedFactory *bannerAdFactory;
-@property (nonatomic, strong) NSMutableArray<OpenBiddingFlutterBannerRefined *> *bannerAdMethodChannels;
+@property (nonatomic, strong) OpenBiddingFlutterBannerRefined * _Nullable bannerAdMethodChannel;
+@property (nonatomic, strong) NSString * _Nullable bannerAdChannelName;
 
 @end
 

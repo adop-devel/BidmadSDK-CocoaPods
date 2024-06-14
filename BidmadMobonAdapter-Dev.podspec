@@ -15,6 +15,5 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
 
   s.dependency 'BidmadSDK-Dev', '>=6.7.0.4', '<6.8.0'
-  s.dependency 'Google-Mobile-Ads-SDK', '11.2.0'
 
 end

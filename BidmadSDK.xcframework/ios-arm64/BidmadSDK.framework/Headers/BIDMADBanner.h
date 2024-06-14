@@ -17,6 +17,7 @@
 
 @protocol OBHBannerExtraDelegate <NSObject>
 
+@property (nonatomic) NSString * _Nullable zoneID;
 - (void)addLoadedAdView:(UIView * _Nonnull)adView
                 adWidth:(CGFloat)adWidth
                adHeight:(CGFloat)adHeight

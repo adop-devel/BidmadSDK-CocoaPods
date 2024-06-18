@@ -24,6 +24,14 @@
 		<data>
 		yET4wRx/Y6abBWeM6Pg0UD2M+ik=
 		</data>
+		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
+		<data>
+		KTHA/GifBv4VP27Olnhd81aAUc4=
+		</data>
+		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		k9OFlDPBRWfteJ+bfG12WAoBuls=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -69,6 +77,28 @@
 			<key>hash2</key>
 			<data>
 			PXTZjUj43wpUaphd2MuGRQxcgn6s4NgfpSfZLtlBUeA=
+			</data>
+		</dict>
+		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KTHA/GifBv4VP27Olnhd81aAUc4=
+			</data>
+			<key>hash2</key>
+			<data>
+			tC221YpLn1DMhq2Ep/qwF9ciGdoM2NRjbDoHCkThVS8=
+			</data>
+		</dict>
+		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k9OFlDPBRWfteJ+bfG12WAoBuls=
+			</data>
+			<key>hash2</key>
+			<data>
+			RbetuZ/NLZYqHIAPv8wTJbV6f6QWX0FhgjI7tf/pyQA=
 			</data>
 		</dict>
 	</dict>

@@ -1,0 +1,974 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "OpenBiddingHelper",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BidmadSDK",
+        "printedName": "BidmadSDK",
+        "declKind": "Import",
+        "moduleName": "OpenBiddingHelper"
+      },
+      {
+        "kind": "Import",
+        "name": "Flutter",
+        "printedName": "Flutter",
+        "declKind": "Import",
+        "moduleName": "OpenBiddingHelper"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OpenBiddingFlutterBannerRefined",
+        "printedName": "OpenBiddingFlutterBannerRefined",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpenBiddingFlutterBannerRefined",
+                    "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined",
+                    "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(cpy)shared",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC6sharedACSgvpZ",
+            "moduleName": "OpenBiddingHelper",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OpenBiddingFlutterBannerRefined",
+                        "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined",
+                        "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(cm)shared",
+                "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC6sharedACSgvgZ",
+                "moduleName": "OpenBiddingHelper",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OpenBiddingFlutterBannerRefined",
+                        "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined",
+                        "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(cm)setShared:",
+                "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC6sharedACSgvsZ",
+                "moduleName": "OpenBiddingHelper",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17OpenBiddingHelper0aB20FlutterBannerRefinedC6sharedACSgvMZ",
+                "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC6sharedACSgvMZ",
+                "moduleName": "OpenBiddingHelper",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "shared",
+            "printedName": "shared(registrar:chanNm:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingFlutterBannerRefined",
+                "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSObject",
+                "printedName": "ObjectiveC.NSObject",
+                "usr": "c:objc(cs)NSObject"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(cm)sharedWithRegistrar:chanNm:",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC6shared9registrar6chanNmACSo8NSObjectC_SStFZ",
+            "moduleName": "OpenBiddingHelper",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "isInitialized",
+            "printedName": "isInitialized",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(cpy)isInitialized",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC13isInitializedSbvpZ",
+            "moduleName": "OpenBiddingHelper",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "ObjC"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(cm)isInitialized",
+                "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC13isInitializedSbvgZ",
+                "moduleName": "OpenBiddingHelper",
+                "static": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "chanNm",
+            "printedName": "chanNm",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(py)chanNm",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC6chanNmSSvp",
+            "moduleName": "OpenBiddingHelper",
+            "declAttributes": [
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(im)chanNm",
+                "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC6chanNmSSvg",
+                "moduleName": "OpenBiddingHelper",
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "ads",
+            "printedName": "ads",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : OpenBiddingHelper.OpenBiddingBanner?]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "OpenBiddingHelper.OpenBiddingBanner?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "OpenBiddingBanner",
+                        "printedName": "OpenBiddingHelper.OpenBiddingBanner",
+                        "usr": "c:objc(cs)OpenBiddingBanner"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:17OpenBiddingHelper0aB20FlutterBannerRefinedC3adsSDySSSo0abE0CSgGvp",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC3adsSDySSSo0abE0CSgGvp",
+            "moduleName": "OpenBiddingHelper",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "SetterAccess",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : OpenBiddingHelper.OpenBiddingBanner?]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "OpenBiddingHelper.OpenBiddingBanner?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "OpenBiddingBanner",
+                            "printedName": "OpenBiddingHelper.OpenBiddingBanner",
+                            "usr": "c:objc(cs)OpenBiddingBanner"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:17OpenBiddingHelper0aB20FlutterBannerRefinedC3adsSDySSSo0abE0CSgGvg",
+                "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC3adsSDySSSo0abE0CSgGvg",
+                "moduleName": "OpenBiddingHelper",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingFlutterBannerRefined",
+                "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefined",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(im)init",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedCACycfc",
+            "moduleName": "OpenBiddingHelper",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "onLoadAd",
+            "printedName": "onLoadAd(_:adWidth:adHeight:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingBanner",
+                "printedName": "OpenBiddingHelper.OpenBiddingBanner",
+                "usr": "c:objc(cs)OpenBiddingBanner"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(im)onLoadAd:adWidth:adHeight:",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC8onLoadAd_7adWidth0J6HeightySo0abE0C_12CoreGraphics7CGFloatVAKtF",
+            "moduleName": "OpenBiddingHelper",
+            "objc_name": "onLoadAd:adWidth:adHeight:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onLoadFailAd",
+            "printedName": "onLoadFailAd(_:error:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingBanner",
+                "printedName": "OpenBiddingHelper.OpenBiddingBanner",
+                "usr": "c:objc(cs)OpenBiddingBanner"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Error",
+                "printedName": "any Swift.Error",
+                "usr": "s:s5ErrorP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(im)onLoadFailAd:error:",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC12onLoadFailAd_5errorySo0abE0C_s5Error_ptF",
+            "moduleName": "OpenBiddingHelper",
+            "objc_name": "onLoadFailAd:error:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onClickAd",
+            "printedName": "onClickAd(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingBanner",
+                "printedName": "OpenBiddingHelper.OpenBiddingBanner",
+                "usr": "c:objc(cs)OpenBiddingBanner"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@CM@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined(im)onClickAd:",
+            "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC9onClickAdyySo0abE0CF",
+            "moduleName": "OpenBiddingHelper",
+            "objc_name": "onClickAd:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefined",
+        "mangledName": "$s17OpenBiddingHelper0aB20FlutterBannerRefinedC",
+        "moduleName": "OpenBiddingHelper",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OpenBiddingFlutterBannerRefinedPlatformView",
+        "printedName": "OpenBiddingFlutterBannerRefinedPlatformView",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(key:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingFlutterBannerRefinedPlatformView",
+                "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefinedPlatformView",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedPlatformView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedPlatformView(im)initWithKey:",
+            "mangledName": "$s17OpenBiddingHelper0aB32FlutterBannerRefinedPlatformViewC3keyACSS_tcfc",
+            "moduleName": "OpenBiddingHelper",
+            "declAttributes": [
+              "AccessControl",
+              "ObjC"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "view",
+            "printedName": "view()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedPlatformView(im)view",
+            "mangledName": "$s17OpenBiddingHelper0aB32FlutterBannerRefinedPlatformViewC4viewSo6UIViewCyF",
+            "moduleName": "OpenBiddingHelper",
+            "objc_name": "view",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingFlutterBannerRefinedPlatformView",
+                "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefinedPlatformView",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedPlatformView"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedPlatformView(im)init",
+            "mangledName": "$s17OpenBiddingHelper0aB32FlutterBannerRefinedPlatformViewCACycfc",
+            "moduleName": "OpenBiddingHelper",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedPlatformView",
+        "mangledName": "$s17OpenBiddingHelper0aB32FlutterBannerRefinedPlatformViewC",
+        "moduleName": "OpenBiddingHelper",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "OpenBiddingFlutterBannerRefinedFactory",
+        "printedName": "OpenBiddingFlutterBannerRefinedFactory",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "create",
+            "printedName": "create(withFrame:viewIdentifier:arguments:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FlutterPlatformView",
+                "printedName": "any Flutter.FlutterPlatformView",
+                "usr": "c:objc(pl)FlutterPlatformView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGRect",
+                "printedName": "CoreFoundation.CGRect",
+                "usr": "c:@S@CGRect"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int64",
+                "printedName": "Swift.Int64",
+                "usr": "s:s5Int64V"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedFactory(im)createWithFrame:viewIdentifier:arguments:",
+            "mangledName": "$s17OpenBiddingHelper0aB27FlutterBannerRefinedFactoryC6create9withFrame14viewIdentifier9argumentsSo0D12PlatformView_pSo6CGRectV_s5Int64VypSgtF",
+            "moduleName": "OpenBiddingHelper",
+            "objc_name": "createWithFrame:viewIdentifier:arguments:",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createArgsCodec",
+            "printedName": "createArgsCodec()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "any Flutter.FlutterMessageCodec & ObjectiveC.NSObjectProtocol"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedFactory(im)createArgsCodec",
+            "mangledName": "$s17OpenBiddingHelper0aB27FlutterBannerRefinedFactoryC15createArgsCodecSo0d7MessageJ0_So8NSObjectpyF",
+            "moduleName": "OpenBiddingHelper",
+            "objc_name": "createArgsCodec",
+            "declAttributes": [
+              "ObjC",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpenBiddingFlutterBannerRefinedFactory",
+                "printedName": "OpenBiddingHelper.OpenBiddingFlutterBannerRefinedFactory",
+                "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedFactory"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedFactory(im)init",
+            "mangledName": "$s17OpenBiddingHelper0aB27FlutterBannerRefinedFactoryCACycfc",
+            "moduleName": "OpenBiddingHelper",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@OpenBiddingHelper@objc(cs)OpenBiddingFlutterBannerRefinedFactory",
+        "mangledName": "$s17OpenBiddingHelper0aB27FlutterBannerRefinedFactoryC",
+        "moduleName": "OpenBiddingHelper",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 905,
+      "length": 28,
+      "value": "\"setBannerContainerForGame:\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 203,
+      "length": 31,
+      "value": "\"OpenBiddingHelper.OpenBiddingFlutterBannerRefined\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 6400,
+      "length": 10,
+      "value": "\"onLoadAd\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 6432,
+      "length": 10,
+      "value": "\"onFailAd\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 6465,
+      "length": 11,
+      "value": "\"onClickAd\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 6400,
+      "length": 10,
+      "value": "\"onLoadAd\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 6432,
+      "length": 10,
+      "value": "\"onFailAd\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 6465,
+      "length": 11,
+      "value": "\"onClickAd\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/OpenBiddingHelper\/Flutter\/OpenBiddingFlutterBannerRefined.swift",
+      "kind": "StringLiteral",
+      "offset": 7857,
+      "length": 43,
+      "value": "\"OpenBiddingHelper.OpenBiddingFlutterBannerRefinedPlatformView\""
+    }
+  ]
+}

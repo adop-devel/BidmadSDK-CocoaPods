@@ -28,6 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) CGFloat ypoint;
 @property (nonatomic) NSUInteger position;
 @property (readonly) BOOL isLoaded;
+@property (nonatomic, strong) NSString * _Nullable flutterKey;
 
 /**
  * A Boolean value that determines whether ad refresh feature is enabled.

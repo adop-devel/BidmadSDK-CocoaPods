@@ -80,41 +80,9 @@
 		<data>
 		EGa++ZCINQK4y80vav64FaUfm48=
 		</data>
-		<key>Headers/OpenBiddingFlutterBanner.h</key>
-		<data>
-		SYGRVEqC3t9bawMgxo7NpjQCAHE=
-		</data>
-		<key>Headers/OpenBiddingFlutterBannerFactory.h</key>
-		<data>
-		LjwI7/STpSFoZGX60qA1IiV0Mb4=
-		</data>
-		<key>Headers/OpenBiddingFlutterCommon.h</key>
-		<data>
-		gFvn9/OVDhPvD1cuRIV06UEdIIk=
-		</data>
-		<key>Headers/OpenBiddingFlutterGDPRforGoogle.h</key>
-		<data>
-		BKvzDsd/dCT9IVjqJKXTs45Ee2g=
-		</data>
-		<key>Headers/OpenBiddingFlutterInterstitial.h</key>
-		<data>
-		fuMpnZGQQvmroaE0cZqsU2oUbcQ=
-		</data>
-		<key>Headers/OpenBiddingFlutterNativeAdViewFactory.h</key>
-		<data>
-		ksZ1OeiZI7p0dmItjrxfd9Xils4=
-		</data>
-		<key>Headers/OpenBiddingFlutterRewardVideo.h</key>
-		<data>
-		XLyNI0XWRjY7krYMYXTH4+on5II=
-		</data>
-		<key>Headers/OpenBiddingHelper-Swift.h</key>
-		<data>
-		ddfodJev0Ey2Vc4ks4UyjuV1RUE=
-		</data>
 		<key>Headers/OpenBiddingHelper.h</key>
 		<data>
-		+HjWqcrROYFTz6QgF03inKT+SIs=
+		tmgZxr4ynLW1BFvzTD7TPj27Ipk=
 		</data>
 		<key>Headers/OpenBiddingInterstitial.h</key>
 		<data>
@@ -138,31 +106,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XjCckdqWPZh6s1Q/EIwogEdRf/E=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		VcD1SAfAt/hYTvEBvRqCiFOrCMQ=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		W/fzz1NtiwrI4ILnck4Nfu3dldU=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		UG+0UH5I2uNJZNVrv0OAE7GI9/w=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		W/fzz1NtiwrI4ILnck4Nfu3dldU=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		OJunfD4kqOY8XkdXO7NFjeD1vco=
+		0R6b++wa1lSXI7LZthR6t6RxZKA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		m7NrlRATI4+p53KWs7YDGcrFkgk=
+		XtnKFiiI0y926iaynB5YCvz3EE8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -376,103 +324,15 @@
 			EpjJ4xj5bv3clzxSCrAJkyhNARyse7sZhnskMfrA0KQ=
 			</data>
 		</dict>
-		<key>Headers/OpenBiddingFlutterBanner.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SYGRVEqC3t9bawMgxo7NpjQCAHE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Q2aH7IbzLTkgFt0RU5F2ne5NQVdvy/oY13m2VW7gV6o=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterBannerFactory.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LjwI7/STpSFoZGX60qA1IiV0Mb4=
-			</data>
-			<key>hash2</key>
-			<data>
-			seX3ZCMVzGLtM+kSlww3e3Vz0j9NdHzCMA/549FSQzw=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterCommon.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gFvn9/OVDhPvD1cuRIV06UEdIIk=
-			</data>
-			<key>hash2</key>
-			<data>
-			3SSmOnSLOEK7d7MHn2LS8H5YWTaogPr/CGBM+BapvPc=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterGDPRforGoogle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BKvzDsd/dCT9IVjqJKXTs45Ee2g=
-			</data>
-			<key>hash2</key>
-			<data>
-			oqUctVGyPdSgacO9lSknesDj7qvUOn0r34M25LHyBC0=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterInterstitial.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fuMpnZGQQvmroaE0cZqsU2oUbcQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ggij9Dadjg5eyERL5BPvVl9W35jRpi9HOb7xACYYQyk=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterNativeAdViewFactory.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ksZ1OeiZI7p0dmItjrxfd9Xils4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ATAs4xzrFpV6gvBIhtOidOE4rzpRIfWCydZM3oUJh+o=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterRewardVideo.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XLyNI0XWRjY7krYMYXTH4+on5II=
-			</data>
-			<key>hash2</key>
-			<data>
-			rqaQ5QMuAB7FEfrsQFyD0qhan43jlCqZYpeHjnja1yc=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingHelper-Swift.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ddfodJev0Ey2Vc4ks4UyjuV1RUE=
-			</data>
-			<key>hash2</key>
-			<data>
-			VjbIz+hI5+d6UF7ilpgg5HPv9DUVnwZwug+NJFSGGu0=
-			</data>
-		</dict>
 		<key>Headers/OpenBiddingHelper.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+HjWqcrROYFTz6QgF03inKT+SIs=
+			tmgZxr4ynLW1BFvzTD7TPj27Ipk=
 			</data>
 			<key>hash2</key>
 			<data>
-			b9O9p0Zac82vG72qUoJYHbtgM7TxOIFPoHoqJM4y4vU=
+			JEucy17G3X/EVQEnIEczyXC1hW5wq4t3bjCRTSTp4sI=
 			</data>
 		</dict>
 		<key>Headers/OpenBiddingInterstitial.h</key>
@@ -530,70 +390,15 @@
 			INcXTPCYiPzm5LQW0ceUActX8hxRrajwdJ+qcsSLAUk=
 			</data>
 		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VcD1SAfAt/hYTvEBvRqCiFOrCMQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			jOQ1d+CIxV67fh9SEGAAkX/2a8A6Sum6jmTf/ovdL9g=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W/fzz1NtiwrI4ILnck4Nfu3dldU=
-			</data>
-			<key>hash2</key>
-			<data>
-			zYzTxgfDoeQTXpH2Y2PpYJJc+NCRR/9lwGidpXIb0dw=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UG+0UH5I2uNJZNVrv0OAE7GI9/w=
-			</data>
-			<key>hash2</key>
-			<data>
-			YQLO4Ttm/J5CWUAFNTxZDpsuuo6JGaNhQNUnUOYCkG4=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W/fzz1NtiwrI4ILnck4Nfu3dldU=
-			</data>
-			<key>hash2</key>
-			<data>
-			zYzTxgfDoeQTXpH2Y2PpYJJc+NCRR/9lwGidpXIb0dw=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OJunfD4kqOY8XkdXO7NFjeD1vco=
-			</data>
-			<key>hash2</key>
-			<data>
-			gg/VVbu9T7bek8E4Sp2T8yI0LL59F+yP6AeoJS6J9Zs=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m7NrlRATI4+p53KWs7YDGcrFkgk=
+			XtnKFiiI0y926iaynB5YCvz3EE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			UOjsFgbYX84rLkoaq6eTpaWUa3sRLZrc1wOYE1S0W9o=
+			fuXaXNR/wUQoxU/JFogXQj+dqiGdJH5y4bvgXx+DycI=
 			</data>
 		</dict>
 	</dict>

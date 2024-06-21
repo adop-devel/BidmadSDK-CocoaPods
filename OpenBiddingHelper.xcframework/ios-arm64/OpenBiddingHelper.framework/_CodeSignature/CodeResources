@@ -80,41 +80,9 @@
 		<data>
 		EGa++ZCINQK4y80vav64FaUfm48=
 		</data>
-		<key>Headers/OpenBiddingFlutterBanner.h</key>
-		<data>
-		SYGRVEqC3t9bawMgxo7NpjQCAHE=
-		</data>
-		<key>Headers/OpenBiddingFlutterBannerFactory.h</key>
-		<data>
-		LjwI7/STpSFoZGX60qA1IiV0Mb4=
-		</data>
-		<key>Headers/OpenBiddingFlutterCommon.h</key>
-		<data>
-		gFvn9/OVDhPvD1cuRIV06UEdIIk=
-		</data>
-		<key>Headers/OpenBiddingFlutterGDPRforGoogle.h</key>
-		<data>
-		BKvzDsd/dCT9IVjqJKXTs45Ee2g=
-		</data>
-		<key>Headers/OpenBiddingFlutterInterstitial.h</key>
-		<data>
-		fuMpnZGQQvmroaE0cZqsU2oUbcQ=
-		</data>
-		<key>Headers/OpenBiddingFlutterNativeAdViewFactory.h</key>
-		<data>
-		ksZ1OeiZI7p0dmItjrxfd9Xils4=
-		</data>
-		<key>Headers/OpenBiddingFlutterRewardVideo.h</key>
-		<data>
-		XLyNI0XWRjY7krYMYXTH4+on5II=
-		</data>
-		<key>Headers/OpenBiddingHelper-Swift.h</key>
-		<data>
-		tLJYnZ3WnD8lgd50wP9GaSR+Thc=
-		</data>
 		<key>Headers/OpenBiddingHelper.h</key>
 		<data>
-		+HjWqcrROYFTz6QgF03inKT+SIs=
+		tmgZxr4ynLW1BFvzTD7TPj27Ipk=
 		</data>
 		<key>Headers/OpenBiddingInterstitial.h</key>
 		<data>
@@ -138,31 +106,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YYCew+9UltQA4JdK5/B6pvPFUEs=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.abi.json</key>
-		<data>
-		VcD1SAfAt/hYTvEBvRqCiFOrCMQ=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<data>
-		46uAF5mhfK4d/NHx1aOGLnbN5Tc=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		uKevmpM/ic415UCXDiF3vtRE1CQ=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		46uAF5mhfK4d/NHx1aOGLnbN5Tc=
-		</data>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		M45BNCQW9aGxK94Q6q92MBsctMU=
+		Dh4Wu3ZCYkVEkRJ8PftJDi1vj0A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		m7NrlRATI4+p53KWs7YDGcrFkgk=
+		XtnKFiiI0y926iaynB5YCvz3EE8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -376,103 +324,15 @@
 			EpjJ4xj5bv3clzxSCrAJkyhNARyse7sZhnskMfrA0KQ=
 			</data>
 		</dict>
-		<key>Headers/OpenBiddingFlutterBanner.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SYGRVEqC3t9bawMgxo7NpjQCAHE=
-			</data>
-			<key>hash2</key>
-			<data>
-			Q2aH7IbzLTkgFt0RU5F2ne5NQVdvy/oY13m2VW7gV6o=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterBannerFactory.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			LjwI7/STpSFoZGX60qA1IiV0Mb4=
-			</data>
-			<key>hash2</key>
-			<data>
-			seX3ZCMVzGLtM+kSlww3e3Vz0j9NdHzCMA/549FSQzw=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterCommon.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gFvn9/OVDhPvD1cuRIV06UEdIIk=
-			</data>
-			<key>hash2</key>
-			<data>
-			3SSmOnSLOEK7d7MHn2LS8H5YWTaogPr/CGBM+BapvPc=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterGDPRforGoogle.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BKvzDsd/dCT9IVjqJKXTs45Ee2g=
-			</data>
-			<key>hash2</key>
-			<data>
-			oqUctVGyPdSgacO9lSknesDj7qvUOn0r34M25LHyBC0=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterInterstitial.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fuMpnZGQQvmroaE0cZqsU2oUbcQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ggij9Dadjg5eyERL5BPvVl9W35jRpi9HOb7xACYYQyk=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterNativeAdViewFactory.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ksZ1OeiZI7p0dmItjrxfd9Xils4=
-			</data>
-			<key>hash2</key>
-			<data>
-			ATAs4xzrFpV6gvBIhtOidOE4rzpRIfWCydZM3oUJh+o=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingFlutterRewardVideo.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			XLyNI0XWRjY7krYMYXTH4+on5II=
-			</data>
-			<key>hash2</key>
-			<data>
-			rqaQ5QMuAB7FEfrsQFyD0qhan43jlCqZYpeHjnja1yc=
-			</data>
-		</dict>
-		<key>Headers/OpenBiddingHelper-Swift.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tLJYnZ3WnD8lgd50wP9GaSR+Thc=
-			</data>
-			<key>hash2</key>
-			<data>
-			1Amkb1/rzPSzJqpveyoCcEKQFMWPfXzwQECLVCtocy0=
-			</data>
-		</dict>
 		<key>Headers/OpenBiddingHelper.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+HjWqcrROYFTz6QgF03inKT+SIs=
+			tmgZxr4ynLW1BFvzTD7TPj27Ipk=
 			</data>
 			<key>hash2</key>
 			<data>
-			b9O9p0Zac82vG72qUoJYHbtgM7TxOIFPoHoqJM4y4vU=
+			JEucy17G3X/EVQEnIEczyXC1hW5wq4t3bjCRTSTp4sI=
 			</data>
 		</dict>
 		<key>Headers/OpenBiddingInterstitial.h</key>
@@ -530,70 +390,15 @@
 			INcXTPCYiPzm5LQW0ceUActX8hxRrajwdJ+qcsSLAUk=
 			</data>
 		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.abi.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VcD1SAfAt/hYTvEBvRqCiFOrCMQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			jOQ1d+CIxV67fh9SEGAAkX/2a8A6Sum6jmTf/ovdL9g=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			46uAF5mhfK4d/NHx1aOGLnbN5Tc=
-			</data>
-			<key>hash2</key>
-			<data>
-			fgtjuTLcvWenU15TpZJ25RGNqyNjrxRa3kGcCA8NsPs=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			uKevmpM/ic415UCXDiF3vtRE1CQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			omRN00rIEbMklVn9SRSPgsL31nqqdFWt7XV1V7hOfTU=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			46uAF5mhfK4d/NHx1aOGLnbN5Tc=
-			</data>
-			<key>hash2</key>
-			<data>
-			fgtjuTLcvWenU15TpZJ25RGNqyNjrxRa3kGcCA8NsPs=
-			</data>
-		</dict>
-		<key>Modules/OpenBiddingHelper.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M45BNCQW9aGxK94Q6q92MBsctMU=
-			</data>
-			<key>hash2</key>
-			<data>
-			Vjcsu3aoEDpvYHi5sm44ll2srhhmYR4w0y2WB7dzRZk=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m7NrlRATI4+p53KWs7YDGcrFkgk=
+			XtnKFiiI0y926iaynB5YCvz3EE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			UOjsFgbYX84rLkoaq6eTpaWUa3sRLZrc1wOYE1S0W9o=
+			fuXaXNR/wUQoxU/JFogXQj+dqiGdJH5y4bvgXx+DycI=
 			</data>
 		</dict>
 	</dict>

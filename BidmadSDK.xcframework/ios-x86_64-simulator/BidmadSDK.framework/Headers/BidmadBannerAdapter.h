@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "BidmadAdUnit.h"
+#import <BidmadSDK/BidmadAdUnit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -28,6 +28,7 @@ NS_ASSUME_NONNULL_BEGIN
                              UIView * _Nullable,
                              CGSize,
                              NSError * _Nullable))completionHandler;
+- (void)destroyed;
 - (instancetype)initWithAdUnit:(BidmadAdUnit *)adUnit;
 
 @end

@@ -9,11 +9,11 @@
 #pragma clang diagnostic ignored "-Wobjc-property-no-attribute"
 
 #import <UIKit/UIKit.h>
-#import "BIDMADUtil.h"
-#import "BIDMADSetting.h"
-#import "BidmadAdUnit.h"
-#import "BidmadBannerAdapter.h"
-#import "OBHCommunicationDelegate.h"
+#import <BidmadSDK/BIDMADUtil.h>
+#import <BidmadSDK/BIDMADSetting.h>
+#import <BidmadSDK/BidmadAdUnit.h>
+#import <BidmadSDK/BidmadBannerAdapter.h>
+#import <BidmadSDK/OBHCommunicationDelegate.h>
 
 @protocol OBHBannerExtraDelegate <NSObject>
 
@@ -28,14 +28,14 @@
 
 @end
 
-typedef NS_ENUM(NSUInteger, BIDMADBannerViewCase) {
+typedef NS_CLOSED_ENUM(NSUInteger, BIDMADBannerViewCase) {
     BIDMADBannerViewCaseXYCoordinateGiven = 0,
     BIDMADBannerViewCaseContainerViewGiven = 1,
     BIDMADBannerViewCaseOnlyYCoordinateGiven = 2,
     BIDMADBannerViewCaseAdPositionAnchorGiven = 3,
 };
 
-typedef NS_ENUM(NSUInteger, BIDMADAdPosition) {
+typedef NS_CLOSED_ENUM(NSUInteger, BIDMADAdPosition) {
     BIDMADAdPositionCenter = 0,
     BIDMADAdPositionTop = 1,
     BIDMADAdPositionBottom = 2,

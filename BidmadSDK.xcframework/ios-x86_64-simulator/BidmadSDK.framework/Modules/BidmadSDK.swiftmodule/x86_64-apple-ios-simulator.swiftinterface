@@ -416,6 +416,12 @@ public struct VMAPAdSource : Swift.Codable {
 extension BidmadSDK.VMAPAdSource {
   public init(attrDict: [Swift.String : Swift.String])
 }
+@objc @_inheritsConvenienceInitializers @objcMembers public class BidmadConstants : ObjectiveC.NSObject {
+  @objc public static let info_plist_appstore_id: Swift.String
+  @objc public static let info_plist_cauly_app_code: Swift.String
+  @objc override dynamic public init()
+  @objc deinit
+}
 public struct VastAdParameters : Swift.Codable {
   public let xmlEncoded: Swift.String?
   public var content: Swift.String?
@@ -576,13 +582,6 @@ extension BidmadSDK.VastNonLinearAdsCreative : Swift.Equatable {
   @objc public static func checkCollapsibleRequestedPreviously(for zoneId: Swift.String) -> Swift.Bool
   @objc public static func set(collapsibleRequested: Swift.Bool, to zoneId: Swift.String)
   @objc override dynamic public init()
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers @available(iOS 13.0.0, *)
-public class BidmadFileDownloader {
-  #if compiler(>=5.3) && $AsyncAwait
-  public static func download(for url: Foundation.URL) async throws -> Foundation.URL
-  #endif
   @objc deinit
 }
 public struct VastCreativeExtension : Swift.Codable {

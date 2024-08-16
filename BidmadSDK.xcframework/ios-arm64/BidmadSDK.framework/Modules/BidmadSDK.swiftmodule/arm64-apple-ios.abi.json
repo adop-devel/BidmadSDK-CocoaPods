@@ -14462,6 +14462,220 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "BidmadConstants",
+        "printedName": "BidmadConstants",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "info_plist_appstore_id",
+            "printedName": "info_plist_appstore_id",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BidmadSDK@objc(cs)BidmadConstants(cpy)info_plist_appstore_id",
+            "mangledName": "$s9BidmadSDK0A9ConstantsC22info_plist_appstore_idSSvpZ",
+            "moduleName": "BidmadSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BidmadSDK@objc(cs)BidmadConstants(cm)info_plist_appstore_id",
+                "mangledName": "$s9BidmadSDK0A9ConstantsC22info_plist_appstore_idSSvgZ",
+                "moduleName": "BidmadSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "info_plist_cauly_app_code",
+            "printedName": "info_plist_cauly_app_code",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@M@BidmadSDK@objc(cs)BidmadConstants(cpy)info_plist_cauly_app_code",
+            "mangledName": "$s9BidmadSDK0A9ConstantsC25info_plist_cauly_app_codeSSvpZ",
+            "moduleName": "BidmadSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl",
+              "ObjC"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@M@BidmadSDK@objc(cs)BidmadConstants(cm)info_plist_cauly_app_code",
+                "mangledName": "$s9BidmadSDK0A9ConstantsC25info_plist_cauly_app_codeSSvgZ",
+                "moduleName": "BidmadSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final",
+                  "ObjC"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BidmadConstants",
+                "printedName": "BidmadSDK.BidmadConstants",
+                "usr": "c:@M@BidmadSDK@objc(cs)BidmadConstants"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@BidmadSDK@objc(cs)BidmadConstants(im)init",
+            "mangledName": "$s9BidmadSDK0A9ConstantsCACycfc",
+            "moduleName": "BidmadSDK",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "init",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@BidmadSDK@objc(cs)BidmadConstants",
+        "mangledName": "$s9BidmadSDK0A9ConstantsC",
+        "moduleName": "BidmadSDK",
+        "declAttributes": [
+          "AccessControl",
+          "ObjCMembers",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BidmadSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "VastAdParameters",
         "printedName": "VastAdParameters",
         "children": [
@@ -20123,73 +20337,6 @@
             "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BidmadSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BidmadSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "BidmadFileDownloader",
-        "printedName": "BidmadFileDownloader",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "download",
-            "printedName": "download(for:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "URL",
-                "printedName": "Foundation.URL",
-                "usr": "s:10Foundation3URLV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "URL",
-                "printedName": "Foundation.URL",
-                "usr": "s:10Foundation3URLV"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:9BidmadSDK0A14FileDownloaderC8download3for10Foundation3URLVAH_tYaKFZ",
-            "mangledName": "$s9BidmadSDK0A14FileDownloaderC8download3for10Foundation3URLVAH_tYaKFZ",
-            "moduleName": "BidmadSDK",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "throwing": true,
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:9BidmadSDK0A14FileDownloaderC",
-        "mangledName": "$s9BidmadSDK0A14FileDownloaderC",
-        "moduleName": "BidmadSDK",
-        "intro_iOS": "13.0.0",
-        "declAttributes": [
-          "AccessControl",
-          "Available"
-        ],
-        "hasMissingDesignatedInitializers": true
       },
       {
         "kind": "Import",
@@ -33119,6 +33266,20 @@
       "offset": 742,
       "length": 9,
       "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadSDK\/BidmadConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 224,
+      "length": 25,
+      "value": "\"BidmadAppInfoAppstoreId\""
+    },
+    {
+      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadSDK\/BidmadConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 300,
+      "length": 27,
+      "value": "\"BidmadAppInfoCaulyAppCode\""
     },
     {
       "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadSDK\/VastClient\/models\/XML schema\/VastLinearCreative.swift",

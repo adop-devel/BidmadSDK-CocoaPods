@@ -61,6 +61,13 @@
       },
       {
         "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "BidmadAdpieAdapter"
+      },
+      {
+        "kind": "Import",
         "name": "AdPieSDK",
         "printedName": "AdPieSDK",
         "declKind": "Import",

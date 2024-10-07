@@ -401,7 +401,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ELTnHLfkQ0Xi9P/ZDbfTBOOb7gE=
+		DwVuy1isLWZD+mJNHJcwy+DyNl0=
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -421,7 +421,7 @@
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4lENOl+z3vPfyNB/+W7oWgXAJLM=
+		16C+TV4x76/4O8CAPeNtf6OSjLU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -429,7 +429,7 @@
 		</data>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<data>
-		jKxnSJg1cQpvoBfiyfLKMGhBQuM=
+		dIXEl1Ee4ZBnVuFHQ/hIa7IwRgg=
 		</data>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1443,11 +1443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4lENOl+z3vPfyNB/+W7oWgXAJLM=
+			16C+TV4x76/4O8CAPeNtf6OSjLU=
 			</data>
 			<key>hash2</key>
 			<data>
-			m3AmUQacM8xUdgtbF/s+XSV8iUDQ7Ry1lmIxi+XiDtA=
+			u1GzbK8eVqqGMLs/dXncxYe4hQUkfWsxHK8hG3hb9zU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1465,11 +1465,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jKxnSJg1cQpvoBfiyfLKMGhBQuM=
+			dIXEl1Ee4ZBnVuFHQ/hIa7IwRgg=
 			</data>
 			<key>hash2</key>
 			<data>
-			gfOChHAP3P3DDsdqeMj89L1HaprqnB1vDppBQkAolBw=
+			GbztOnV4KF/Rs7vx3/SIM9PEg0Ir+gMBlClaLu2HfzI=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>

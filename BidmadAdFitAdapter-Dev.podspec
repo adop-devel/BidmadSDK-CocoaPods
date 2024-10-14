@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = "BidmadAdFitAdapter.xcframework"
   s.swift_version = '5.0'
 
-  s.dependency 'BidmadSDK-Dev', '>=6.11.0', '<6.12.0'
+  s.dependency 'BidmadSDK-Dev', '>=6.11.1', '<6.12.0'
   s.dependency 'AdFitSDK', '3.12.7'
 
 end

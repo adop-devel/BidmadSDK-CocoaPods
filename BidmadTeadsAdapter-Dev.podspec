@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = "BidmadTeadsAdapter.xcframework"
   s.swift_version = '5.0'
 
-  s.dependency 'BidmadSDK-Dev', '>=6.11.0', '<6.12.0'
+  s.dependency 'BidmadSDK-Dev', '>=6.11.1', '<6.12.0'
   s.dependency 'TeadsSDK', '5.0.27'
 
 end

@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = "BidmadAdPopcornAdapter.xcframework"
   s.swift_version = '5.0'
 
-  s.dependency 'BidmadSDK-Dev', '>=6.11.0', '<6.12.0'
+  s.dependency 'BidmadSDK-Dev', '>=6.11.1', '<6.12.0'
   s.dependency 'AdPopcornSSP', '2.6.5'
   s.dependency 'NAMSDK', '7.5.3'
   s.dependency 'NAMSDK/MediationNDA', '7.5.3'

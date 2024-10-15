@@ -397,7 +397,7 @@
 		</data>
 		<key>Headers/BidmadAdPopcornCore.h</key>
 		<data>
-		RXLBTBUJOVAOFtfIQ+xuUsj4pFU=
+		WETn1cOjS6MaW43YocM9UFIihuE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -421,7 +421,7 @@
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		16C+TV4x76/4O8CAPeNtf6OSjLU=
+		08nqrAWXp07mXuT35pg43lgLOwM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1388,11 +1388,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RXLBTBUJOVAOFtfIQ+xuUsj4pFU=
+			WETn1cOjS6MaW43YocM9UFIihuE=
 			</data>
 			<key>hash2</key>
 			<data>
-			TYOvLEG18ILeGL2sTBYTZMT84t4N0249aLVeQorCKwM=
+			u0+hO9SzlItCVDutYPXY3GomqFPwwcDMwJhrhmdgz2s=
 			</data>
 		</dict>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -1443,11 +1443,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			16C+TV4x76/4O8CAPeNtf6OSjLU=
+			08nqrAWXp07mXuT35pg43lgLOwM=
 			</data>
 			<key>hash2</key>
 			<data>
-			u1GzbK8eVqqGMLs/dXncxYe4hQUkfWsxHK8hG3hb9zU=
+			4Qe/aC5KkH16CT80YqoDOnV4Pv4+CJF+34UV6SwEhsA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

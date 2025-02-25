@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
 // swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name BidmadTeadsAdapter
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
 import BidmadSDK
 @_exported import BidmadTeadsAdapter
 import Swift
@@ -9,7 +10,7 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_inheritsConvenienceInitializers @objcMembers public class BidmadInterstitialTeadsAdapterSwift : BidmadSDK.BidmadInterstitialAdapter, TeadsSDK.TeadsInReadAdPlacementDelegate, TeadsSDK.TeadsAdDelegate {
+@objc @_inheritsConvenienceInitializers @objcMembers public class BidmadInterstitialTeadsAdapter : BidmadSDK.BidmadInterstitialAdapter, TeadsSDK.TeadsInReadAdPlacementDelegate, TeadsSDK.TeadsAdDelegate, @unchecked Swift.Sendable {
   @objc override dynamic public func loadAd(_ completionHandler: @escaping (BidmadSDK.BidmadInterstitialAdapter?, (any Swift.Error)?) -> Swift.Void)
   @objc override dynamic public func showAd(from viewController: UIKit.UIViewController)
   @objc public func willPresentModalView(ad: TeadsSDK.TeadsAd) -> UIKit.UIViewController?
@@ -22,7 +23,7 @@ import _SwiftConcurrencyShims
   @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @objcMembers public class BidmadNativeTeadsAdapterSwift : BidmadSDK.BidmadNativeAdapter, TeadsSDK.TeadsNativeAdPlacementDelegate, TeadsSDK.TeadsAdDelegate {
+@objc @_inheritsConvenienceInitializers @objcMembers public class BidmadNativeTeadsAdapter : BidmadSDK.BidmadNativeAdapter, TeadsSDK.TeadsNativeAdPlacementDelegate, TeadsSDK.TeadsAdDelegate {
   @objc override dynamic public func loadAd(_ completionHandler: @escaping (BidmadSDK.BidmadNativeAdapter?, (any Swift.Error)?) -> Swift.Void)
   @objc override dynamic public func showAd(to adView: BidmadSDK.BIDMADNativeAdView, defaultSize: CoreFoundation.CGSize) -> CoreFoundation.CGSize
   @objc override dynamic public func removeAd(from adView: BidmadSDK.BIDMADNativeAdView)

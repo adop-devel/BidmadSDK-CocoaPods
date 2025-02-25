@@ -34,27 +34,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		FJG7JauJzdU3qEq3voJ9DYciiZQ=
+		YhJxIMWC7GkInweRNZ22g/kG4us=
 		</data>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		1BnTfiQ1QzYyTi6qoqvCnaEcSXQ=
+		AzyXIB0JZkzLFaNgZ0fohJPWtaY=
 		</data>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		A6hns5Oq0rq17n5LHWIPmRzr6yY=
+		FKZtBuiLY1qxNJb3x8bDCw30hEs=
 		</data>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		g7nNrfuv24MhA9g0NvnXfxfp0pU=
+		b3gqCoD+Uu0itRKuVr36a29dCco=
 		</data>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		A6hns5Oq0rq17n5LHWIPmRzr6yY=
+		FKZtBuiLY1qxNJb3x8bDCw30hEs=
 		</data>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		B3s7880omtvVcdqce3EFpJ2LeW0=
+		QBY1tvSb8VVNwrgBMTgXFdPYNeU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -144,55 +144,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1BnTfiQ1QzYyTi6qoqvCnaEcSXQ=
+			AzyXIB0JZkzLFaNgZ0fohJPWtaY=
 			</data>
 			<key>hash2</key>
 			<data>
-			m/il6TGkio2YvqNKHedusHuwENPNUFS166rvCX6lce0=
+			hpnPWbMda0qfjvvNCWjfOVfjGPt3HSHUhCSUCeFMrF4=
 			</data>
 		</dict>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A6hns5Oq0rq17n5LHWIPmRzr6yY=
+			FKZtBuiLY1qxNJb3x8bDCw30hEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			y+XY+ozO9d+d2nK/kvcHbNjaRvffZTDL+4aT1XXT1ok=
+			E8114RljV1BpZDhDKU9Mw1b+/bHSGKOC8CT4Z8qFCgA=
 			</data>
 		</dict>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g7nNrfuv24MhA9g0NvnXfxfp0pU=
+			b3gqCoD+Uu0itRKuVr36a29dCco=
 			</data>
 			<key>hash2</key>
 			<data>
-			tex9RN/yW93QSchgPRv3a6Hsmtyh9IoH5Hjqp/ml8b0=
+			zkWC8DN+e5/TJwzcCE4Q2f59GT1dKI7SXAmMfDLqWps=
 			</data>
 		</dict>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A6hns5Oq0rq17n5LHWIPmRzr6yY=
+			FKZtBuiLY1qxNJb3x8bDCw30hEs=
 			</data>
 			<key>hash2</key>
 			<data>
-			y+XY+ozO9d+d2nK/kvcHbNjaRvffZTDL+4aT1XXT1ok=
+			E8114RljV1BpZDhDKU9Mw1b+/bHSGKOC8CT4Z8qFCgA=
 			</data>
 		</dict>
 		<key>Modules/BidmadFlutterBridge.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			B3s7880omtvVcdqce3EFpJ2LeW0=
+			QBY1tvSb8VVNwrgBMTgXFdPYNeU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8veAPVha0/FI3hCAwPjgLyTa3tJUwzAwo5qM8myaXdM=
+			K/loK7D5/i9JuEM4PX9ZZlMQnkNbbJFsk4AVRWCk3Qo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

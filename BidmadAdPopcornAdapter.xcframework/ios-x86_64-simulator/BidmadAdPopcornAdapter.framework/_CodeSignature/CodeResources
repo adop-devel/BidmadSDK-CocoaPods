@@ -389,7 +389,7 @@
 		</data>
 		<key>Headers/BidmadAdPopcornAdapter-Swift.h</key>
 		<data>
-		gyY4owqQ0NI6qSkLaY9w0tVihgA=
+		zfwVAD0ncfHN5Ikj8f54fWiBjRs=
 		</data>
 		<key>Headers/BidmadAdPopcornAdapter.h</key>
 		<data>
@@ -401,27 +401,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DwVuy1isLWZD+mJNHJcwy+DyNl0=
+		33wOH8D7/afbbG5zbxxAmNKxYlc=
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kit/X87ZkLhY5gbSBQmbIKIoq70=
+		IaWVEGpMEsQ9KP5SAlfRe4jBI6g=
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9NWrivxcHy5CEnYJ3YPFRcKDRS8=
+		o2vxXLy5XJHAaHDrL2AM5uGJ1Qs=
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		bfShnvytNCYVwy351sbQRAzKhVg=
+		6vDXL6vfF0Q1Av83q6xPCJRbyrI=
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9NWrivxcHy5CEnYJ3YPFRcKDRS8=
+		o2vxXLy5XJHAaHDrL2AM5uGJ1Qs=
 		</data>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		08nqrAWXp07mXuT35pg43lgLOwM=
+		KOJurzB6sNSjK9WKr3qyuwm6iyk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -429,7 +429,7 @@
 		</data>
 		<key>NAMSDKResources.bundle/Info.plist</key>
 		<data>
-		dIXEl1Ee4ZBnVuFHQ/hIa7IwRgg=
+		W81/GsYocqDQdG6ez0Fu0Q+isuk=
 		</data>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -1366,11 +1366,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gyY4owqQ0NI6qSkLaY9w0tVihgA=
+			zfwVAD0ncfHN5Ikj8f54fWiBjRs=
 			</data>
 			<key>hash2</key>
 			<data>
-			rpYhMYhJjy4+SZwJNAStkWbAgnZkbkDFkLmDLUPk9mo=
+			F3T7YzKJjDRkGGqYnluN4N7MSG6yvt5MxHbCc1UUrsE=
 			</data>
 		</dict>
 		<key>Headers/BidmadAdPopcornAdapter.h</key>
@@ -1399,55 +1399,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kit/X87ZkLhY5gbSBQmbIKIoq70=
+			IaWVEGpMEsQ9KP5SAlfRe4jBI6g=
 			</data>
 			<key>hash2</key>
 			<data>
-			KSdp8l5SdYSB7XAWK4ZZw58k1Luq9dw72eu0HExW10Q=
+			Q8GvbHK72rz6QV/TMkOBagWFMVDQIWyRFR4A/3e5hsg=
 			</data>
 		</dict>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9NWrivxcHy5CEnYJ3YPFRcKDRS8=
+			o2vxXLy5XJHAaHDrL2AM5uGJ1Qs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5knJRzMd2LGvbsEw/ekk+4g30Qf0ao8Zr0BcxWXgNUA=
+			4t+RAl3HoRxLV3eJ7kUPuTqeK/Ji2119uEPvaZF2Z38=
 			</data>
 		</dict>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bfShnvytNCYVwy351sbQRAzKhVg=
+			6vDXL6vfF0Q1Av83q6xPCJRbyrI=
 			</data>
 			<key>hash2</key>
 			<data>
-			o+ndghlp/Uzo9+76Yov7xqeCf1yDhsBLCUSwOCUQcq4=
+			4e3RfDRzNvzz3TerougjUZ7sORKbJJbib44oHtJetaA=
 			</data>
 		</dict>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9NWrivxcHy5CEnYJ3YPFRcKDRS8=
+			o2vxXLy5XJHAaHDrL2AM5uGJ1Qs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5knJRzMd2LGvbsEw/ekk+4g30Qf0ao8Zr0BcxWXgNUA=
+			4t+RAl3HoRxLV3eJ7kUPuTqeK/Ji2119uEPvaZF2Z38=
 			</data>
 		</dict>
 		<key>Modules/BidmadAdPopcornAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			08nqrAWXp07mXuT35pg43lgLOwM=
+			KOJurzB6sNSjK9WKr3qyuwm6iyk=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Qe/aC5KkH16CT80YqoDOnV4Pv4+CJF+34UV6SwEhsA=
+			Jnkmg5AiqNsJe7uZjbTFL+j4vCL3/iAh2xy6o4otc9E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1465,11 +1465,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dIXEl1Ee4ZBnVuFHQ/hIa7IwRgg=
+			W81/GsYocqDQdG6ez0Fu0Q+isuk=
 			</data>
 			<key>hash2</key>
 			<data>
-			GbztOnV4KF/Rs7vx3/SIM9PEg0Ir+gMBlClaLu2HfzI=
+			t2qK/kp3Co2eZiSO5RAY/Mxkmu3JE3XksT5e/bqq954=
 			</data>
 		</dict>
 		<key>NAMSDKResources.bundle/PrivacyInfo.xcprivacy</key>

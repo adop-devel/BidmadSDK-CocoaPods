@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/BidmadAllianceInternetAdapter-Swift.h</key>
 		<data>
-		NY7bFkKhAHWCVjBTCXwuStkKw24=
+		SH31G7oj515kgGbeu/1zDg/LV28=
 		</data>
 		<key>Headers/BidmadAllianceInternetAdapter.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hBzuAvtfTE5+gGhDOS9LIHLBVzw=
+		qy8L2SFIeWjE2f2XG4LmotaOAB4=
 		</data>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		m6+w1piIsVfQOW6Dv7amwl2YGx8=
+		ZosvQPQpYKnwKSRzCP7UVy2BIjw=
 		</data>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		T7gAjAFOpTkYTPvwxaCV5RGM04k=
+		tRhhv420UMoNOkZHNg2VwuLqAE8=
 		</data>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		vDn4/NuUjq2xq2bKH4vtzyh3jl4=
+		Q4Y5ayv+6B+FO6C7KcusU/lPA8E=
 		</data>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		T7gAjAFOpTkYTPvwxaCV5RGM04k=
+		tRhhv420UMoNOkZHNg2VwuLqAE8=
 		</data>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Xg3ai5C7lr2QfnipSP4LRm7huZs=
+		orItXfYABe4oALKRhQbpJuaSa8Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,11 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NY7bFkKhAHWCVjBTCXwuStkKw24=
+			SH31G7oj515kgGbeu/1zDg/LV28=
 			</data>
 			<key>hash2</key>
 			<data>
-			RxhRxs3RTStmVzr1gyf0PIXhEygCUfS6pqtjwmFT3Gs=
+			P2ZNnRKnFg1AwZen/qxzrgErt7+xOiqU5FMAF20JSNE=
 			</data>
 		</dict>
 		<key>Headers/BidmadAllianceInternetAdapter.h</key>
@@ -69,55 +69,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m6+w1piIsVfQOW6Dv7amwl2YGx8=
+			ZosvQPQpYKnwKSRzCP7UVy2BIjw=
 			</data>
 			<key>hash2</key>
 			<data>
-			rw0HmK6tNRCV9R6eNXlQrlZvg1SIWxIroRTDd+wXf38=
+			0EtsJGAqj7Supj+22RcGg8myq0Kv1+D9asbKs8S4ytk=
 			</data>
 		</dict>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T7gAjAFOpTkYTPvwxaCV5RGM04k=
+			tRhhv420UMoNOkZHNg2VwuLqAE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			WQS7KNsQQBDof1Gidrf2+mgf8Q20ZeNRcI8DcTxElOI=
+			7qUFVH/ih02PMTwjedKesj1PRMX3wRYpnlhPI/E+b6U=
 			</data>
 		</dict>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vDn4/NuUjq2xq2bKH4vtzyh3jl4=
+			Q4Y5ayv+6B+FO6C7KcusU/lPA8E=
 			</data>
 			<key>hash2</key>
 			<data>
-			1puqHn1ZxJ4rNagTx87JGbZg5lefEdIeRGhOlHXSflY=
+			0aMAlQXQ1SJPdQAyDI2vk8piGcNAtoYWaDdrCCMNP3Y=
 			</data>
 		</dict>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			T7gAjAFOpTkYTPvwxaCV5RGM04k=
+			tRhhv420UMoNOkZHNg2VwuLqAE8=
 			</data>
 			<key>hash2</key>
 			<data>
-			WQS7KNsQQBDof1Gidrf2+mgf8Q20ZeNRcI8DcTxElOI=
+			7qUFVH/ih02PMTwjedKesj1PRMX3wRYpnlhPI/E+b6U=
 			</data>
 		</dict>
 		<key>Modules/BidmadAllianceInternetAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Xg3ai5C7lr2QfnipSP4LRm7huZs=
+			orItXfYABe4oALKRhQbpJuaSa8Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			v04GAK3H6Q/PbzaXGCODkFlS364wAoOfIEH/LTVFaio=
+			sqP+iAa20uP7WRbVpYgbKhSs8mt3exNlkde6AzUutpk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

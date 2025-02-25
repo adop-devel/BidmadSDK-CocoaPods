@@ -10,6 +10,15 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
+@protocol BidmadBannerSC <NSObject>
+
++ (BOOL)isSupported;
+
+@end
+
+@interface BidmadBannerAdapterSupportChecker : NSObject <BidmadBannerSC>
+@end
+
 @class BidmadBannerAdapter;
 
 @protocol BidmadBannerAdapterDelegate <NSObject>
@@ -18,6 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @end
 
+NS_SWIFT_SENDABLE
 @interface BidmadBannerAdapter : NSObject
 
 @property (nonatomic, weak) id<BidmadBannerAdapterDelegate> delegate;
@@ -30,6 +40,7 @@ NS_ASSUME_NONNULL_BEGIN
                              NSError * _Nullable))completionHandler;
 - (void)destroyed;
 - (instancetype)initWithAdUnit:(BidmadAdUnit *)adUnit;
+- (void)forceViewVisibility:(NSNumber *)visibilityRatio;
 
 @end
 

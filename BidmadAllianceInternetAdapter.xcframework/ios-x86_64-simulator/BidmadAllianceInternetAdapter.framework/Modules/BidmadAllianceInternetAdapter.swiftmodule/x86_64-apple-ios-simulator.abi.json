@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "BidmadAllianceInternetAdapter",
+    "printedName": "BidmadAllianceInternetAdapter",
     "children": [
       {
         "kind": "Import",
@@ -485,6 +485,20 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Equatable",
                 "printedName": "Equatable",
                 "usr": "s:SQ",
@@ -676,6 +690,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -758,165 +786,158 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "FloatLiteral",
       "offset": 1351,
       "length": 5,
       "value": "0.866"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 1365,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "StringLiteral",
       "offset": 1453,
       "length": 21,
       "value": "\"파워링크 광고\""
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 1591,
       "length": 2,
       "value": "13"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 1641,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "BooleanLiteral",
       "offset": 1749,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "BooleanLiteral",
       "offset": 1956,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2213,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2262,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "BooleanLiteral",
       "offset": 2370,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2634,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2668,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "BooleanLiteral",
       "offset": 2776,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "FloatLiteral",
       "offset": 2957,
       "length": 4,
       "value": "0.34"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "FloatLiteral",
       "offset": 2970,
       "length": 4,
       "value": "0.38"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "FloatLiteral",
       "offset": 2982,
       "length": 4,
       "value": "0.62"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 2995,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 3083,
       "length": 2,
       "value": "12"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 3118,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "BooleanLiteral",
       "offset": 3228,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "BooleanLiteral",
       "offset": 3457,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
+      "filePath": "\/Users\/seungsub\/Development\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
       "kind": "IntegerLiteral",
       "offset": 3539,
       "length": 1,
       "value": "1"
-    },
-    {
-      "filePath": "\/Users\/seungsuboh\/Dev\/BidmadSDK-DevSuite\/BidmadAllianceInternetAdapter\/BidmadAllianceInternetBannerView.swift",
-      "kind": "StringLiteral",
-      "offset": 20,
-      "length": 32,
-      "value": "\"BidmadAllianceInternetAdapter.BidmadAllianceInternetBannerView\""
     }
   ]
 }

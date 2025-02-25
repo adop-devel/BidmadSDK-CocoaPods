@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "BidmadMobonAdapter",
+    "printedName": "BidmadMobonAdapter",
     "children": [
       {
         "kind": "Import",
@@ -67,6 +67,22 @@
         "declAttributes": [
           "AccessControl",
           "ObjC"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -186,6 +202,22 @@
         "declAttributes": [
           "AccessControl",
           "ObjC"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -928,17 +960,17 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "MobonBannerAdViewDelegate",
-            "printedName": "MobonBannerAdViewDelegate",
-            "usr": "c:@M@MobonSDKFramework@objc(pl)MobonBannerAdViewDelegate",
-            "mangledName": "$s17MobonSDKFramework0A20BannerAdViewDelegateP"
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
           },
           {
             "kind": "Conformance",
-            "name": "MobonInterstitialAdViewDelegate",
-            "printedName": "MobonInterstitialAdViewDelegate",
-            "usr": "c:@M@MobonSDKFramework@objc(pl)MobonInterstitialAdViewDelegate",
-            "mangledName": "$s17MobonSDKFramework0A26InterstitialAdViewDelegateP"
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -988,6 +1020,20 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MobonBannerAdViewDelegate",
+            "printedName": "MobonBannerAdViewDelegate",
+            "usr": "c:@M@MobonSDKFramework@objc(pl)MobonBannerAdViewDelegate",
+            "mangledName": "$s17MobonSDKFramework0A20BannerAdViewDelegateP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MobonInterstitialAdViewDelegate",
+            "printedName": "MobonInterstitialAdViewDelegate",
+            "usr": "c:@M@MobonSDKFramework@objc(pl)MobonInterstitialAdViewDelegate",
+            "mangledName": "$s17MobonSDKFramework0A26InterstitialAdViewDelegateP"
           }
         ]
       }

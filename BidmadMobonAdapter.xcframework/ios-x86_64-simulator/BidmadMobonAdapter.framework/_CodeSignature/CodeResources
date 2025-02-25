@@ -8,6 +8,10 @@
 		<data>
 		DlWoQxz9Fos4KBNDP1yvIlwnayQ=
 		</data>
+		<key>Frameworks/MobonSDKFramework.framework/MobonSDKFramework</key>
+		<data>
+		34vFnci4VksXs1Ht1cwXx6H4l8A=
+		</data>
 		<key>Frameworks/MobonSDKFramework.framework/_CodeSignature/CodeDirectory</key>
 		<data>
 		/UeHSoYez3kjQu/GmMqz8lhd65Q=
@@ -30,7 +34,7 @@
 		</data>
 		<key>Headers/BidmadMobonAdapter-Swift.h</key>
 		<data>
-		ZKUp+n7ZlP0G78DftEdCFEd7Ad4=
+		kd/4iHnUvyYz5UsBAaKN92u8K+k=
 		</data>
 		<key>Headers/BidmadMobonAdapter.h</key>
 		<data>
@@ -38,27 +42,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2lHxEOc2fYI56A9QG5Ps+mrpD0c=
+		dJAJ+huB4poamLwKpMjpNYscfJM=
 		</data>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		sjZA5mHJgDSlBmiT62PVXxXUUpw=
+		9peucX/8PhJGtrd+rkdgUVvciMU=
 		</data>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		pgLivPAluDBjAlFCeXXMIQGcjNk=
+		gZX3ooqJtrQgDOID3UOyE0Ng8K8=
 		</data>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		9OKajISGUQ9lMPP7DH/dUDAg6I0=
+		uJIElQdIZ32DTiph28uA5+A07mg=
 		</data>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		pgLivPAluDBjAlFCeXXMIQGcjNk=
+		gZX3ooqJtrQgDOID3UOyE0Ng8K8=
 		</data>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7HoQcxSJXZYDxz2POqPu/9NsKt0=
+		QuEimGi5Z6p5nzuCZXp6oTVUh2o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,6 +76,13 @@
 			<key>hash2</key>
 			<data>
 			HrBo6zwiE8g2giTRYbJJgTGuB/KsNuHrz5TOU3WuqTY=
+			</data>
+		</dict>
+		<key>Frameworks/MobonSDKFramework.framework/MobonSDKFramework</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l8M8e/e50fGMSSnxUWiggfEepU6kvL+i9fxApwpvd+4=
 			</data>
 		</dict>
 		<key>Frameworks/MobonSDKFramework.framework/_CodeSignature/CodeDirectory</key>
@@ -113,7 +124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AvfzV0DA5NvIZm0xHdMCGjO5uPVxramFPaw2EnpR9PE=
+			uNee5AfelJeTFtBiXzNhQylm0esLN3JXeXpGHeFdScY=
 			</data>
 		</dict>
 		<key>Headers/BidmadMobonAdapter.h</key>
@@ -127,35 +138,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6U04H/vhuF9tpmKISalI21nK3p8h9uTy8CKixyZyX4=
+			qqcn/b+jDtgD1aom1qkWJHNq8l5Yfete72L8ToPKhf0=
 			</data>
 		</dict>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WXhOZ/2pxYYJrWRizEkAOUJOwkLfRy9KDmg79tddIr8=
+			dVbXNKwaNA3nvv23WHgGsM+KaFl83FKFMoBAGTk+rpk=
 			</data>
 		</dict>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			30L7P19iO7tLBNRGmNh0nuBnMfIM2UZN8B08FypWXIg=
+			7PFVVgrVsvliO4u9EROqF20P1X7v12zOhye10f/4bO0=
 			</data>
 		</dict>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WXhOZ/2pxYYJrWRizEkAOUJOwkLfRy9KDmg79tddIr8=
+			dVbXNKwaNA3nvv23WHgGsM+KaFl83FKFMoBAGTk+rpk=
 			</data>
 		</dict>
 		<key>Modules/BidmadMobonAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a1n6WOPWb7PPTGJj5Onmh1+XlHCrKeEImYe/zi+m0/c=
+			TCr1J5L+DMetEkFLk7cXz/IeghYhQvwNLx4O2GCGk6A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

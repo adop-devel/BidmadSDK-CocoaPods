@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "OpenBiddingHelper-Dev"
-  s.version      = "6.12.0"
+  s.version      = "6.11.2"
   s.platform     = :ios, "12.0"
   s.summary      = "OpenBiddingHelper is for Open Bidding Ads."
   s.description  = "OpenBiddingHelper is for Open Bidding Ads and is a wrapper provided by ADOP."

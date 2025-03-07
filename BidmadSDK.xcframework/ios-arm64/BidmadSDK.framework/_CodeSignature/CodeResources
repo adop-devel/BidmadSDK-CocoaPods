@@ -166,11 +166,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		nnTg/oBw4sjUOB/ll08kpZaVaxo=
+		D4Vv+CmxuA0sEmOqb2Tz0EbRojk=
 		</data>
 		<key>Modules/BidmadSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Z1eBxMpgvwA4ZyRE2iOD09n0veo=
+		MrQccpfHoGDbi/lZAERcT0APmQM=
 		</data>
 		<key>Modules/BidmadSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -186,7 +186,7 @@
 		</data>
 		<key>Modules/BidmadSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		hpkCY089gzDsHuHitnr7ItOmFA8=
+		4BhUhQeU6d8PnaJcJAg2f5t3PoU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -479,7 +479,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xbsgquzge3ei4pHjmOZTCy9KqACT1UcwIo6OPzGJUVM=
+			jtZy6TYGUyb0fcJgCNBTOHpkpBBe6VCvt165Gd1UOPA=
 			</data>
 		</dict>
 		<key>Modules/BidmadSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -507,7 +507,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sgh9bBbfhsgNSoTcFwN7fpMhWrBfTbDqdK+7nCj27Q4=
+			wTzqU5BiwKFoYczCnjz6wonfV8vB8otqzzVwrrYNoPo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

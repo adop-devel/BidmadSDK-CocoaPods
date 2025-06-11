@@ -4,17 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
-		<data>
-		wJF5uhNtvTsM9qF6J6lwHYTkPRk=
-		</data>
-		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		VWCA3MeaiPMoOAS1uOteTSLX8js=
-		</data>
 		<key>Headers/BidmadUnityAdsAdapter-Swift.h</key>
 		<data>
-		cG9iChmSR9ezd2dvDmJF/c0yJkM=
+		jf94ow5NMhA0ORQhBlvtWCP76eA=
 		</data>
 		<key>Headers/BidmadUnityAdsAdapter.h</key>
 		<data>
@@ -26,90 +18,44 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ENJFy6Q+Tq1DiZ6Ifx3G6kRldnk=
+		DJa48K08p4gOIkew812sAy1ot+s=
 		</data>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		hQDkgIFzi9wFrXfrUj6m/HvDAQU=
+		gKSfJaxEFZuQ5WBp1oybtM1Mi3E=
 		</data>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		P3HT/QPKQQGjAssuXHiPtczx5fw=
+		xzLX5glfqFmkHHXo/n4zmIcTFjM=
 		</data>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Mip+u7MmyiYXJCSLYmwakuU3vK4=
+		RDvIXZH2KnQBhpb8R5KbB79xkhY=
 		</data>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P3HT/QPKQQGjAssuXHiPtczx5fw=
+		xzLX5glfqFmkHHXo/n4zmIcTFjM=
 		</data>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UtpfiVRq5SPuYaf05IIvSU+nxdk=
+		0XpKWc8vmpRrhBvP6O+CawzMaHQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		AdrgiKx6xSFQ4IJWFFCO9uDOJ0s=
 		</data>
-		<key>UnityAdsResources.bundle/Info.plist</key>
-		<data>
-		35HzuuEDQL6SGxaMS5nYykNavVc=
-		</data>
-		<key>UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		Vmr7Tv9rcKyDvK3D48LDE7Da57Y=
-		</data>
-		<key>UnityAdsResources.bundle/omid-session-client-v1.js</key>
-		<data>
-		CYrPj5o14ZkSV5tSn5grkOsAghM=
-		</data>
-		<key>UnityAdsResources.bundle/omsdk-v1.js</key>
-		<data>
-		xFoo41tIvFKNNRq9NwW500wQtM8=
-		</data>
-		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
-		<data>
-		m8dr3NuHX6PXWaEtOakNNeXc4FI=
-		</data>
-		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
-		<data>
-		k9OFlDPBRWfteJ+bfG12WAoBuls=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			wJF5uhNtvTsM9qF6J6lwHYTkPRk=
-			</data>
-			<key>hash2</key>
-			<data>
-			O7McaALUPN/iYKUPBqrOPudkh3mCrwokd5J4Ql4HYvU=
-			</data>
-		</dict>
-		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VWCA3MeaiPMoOAS1uOteTSLX8js=
-			</data>
-			<key>hash2</key>
-			<data>
-			afsRJYL8I/wGxjXJYdJio/e0tWVNKEeHSR3jAA2t+dI=
-			</data>
-		</dict>
 		<key>Headers/BidmadUnityAdsAdapter-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cG9iChmSR9ezd2dvDmJF/c0yJkM=
+			jf94ow5NMhA0ORQhBlvtWCP76eA=
 			</data>
 			<key>hash2</key>
 			<data>
-			69NriHP9VT/yjGKWp16DYFttyDp5q9rGa/a1jm/FlbE=
+			1ptHhgJ0u1aGt8It4CZyb368+rO4gol8iTILXYYJ5WU=
 			</data>
 		</dict>
 		<key>Headers/BidmadUnityAdsAdapter.h</key>
@@ -138,55 +84,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hQDkgIFzi9wFrXfrUj6m/HvDAQU=
+			gKSfJaxEFZuQ5WBp1oybtM1Mi3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			bNqyru9wA3jPQIYa4aqyfcC/NJYdgH/gaW/1WDny9oU=
+			D5mtAKi+5tbMwqDConHcRY8W8/KcS6dvFiNqidHWv1s=
 			</data>
 		</dict>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P3HT/QPKQQGjAssuXHiPtczx5fw=
+			xzLX5glfqFmkHHXo/n4zmIcTFjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			5K53RuRbcLce7YUawAux/bqjkWO/by4/O1bDr2gOPs8=
+			IHqAQTSv8IFrAxnC37Jd1k23TZo6AjfNqPhTjmCo4mo=
 			</data>
 		</dict>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Mip+u7MmyiYXJCSLYmwakuU3vK4=
+			RDvIXZH2KnQBhpb8R5KbB79xkhY=
 			</data>
 			<key>hash2</key>
 			<data>
-			7nIkH+QIT9VcR/JEod12PO3mpOjmYCg6AJqTSvO3MkQ=
+			8gtr+CWw2YBR4kZzI96zj1f7wQqXDXdSe0sooSXw/5k=
 			</data>
 		</dict>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P3HT/QPKQQGjAssuXHiPtczx5fw=
+			xzLX5glfqFmkHHXo/n4zmIcTFjM=
 			</data>
 			<key>hash2</key>
 			<data>
-			5K53RuRbcLce7YUawAux/bqjkWO/by4/O1bDr2gOPs8=
+			IHqAQTSv8IFrAxnC37Jd1k23TZo6AjfNqPhTjmCo4mo=
 			</data>
 		</dict>
 		<key>Modules/BidmadUnityAdsAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UtpfiVRq5SPuYaf05IIvSU+nxdk=
+			0XpKWc8vmpRrhBvP6O+CawzMaHQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			ke/WAc0nMQUY5wQ6aMcUdvHgrGlf2hwaeNQi9UVYh8c=
+			t3L+2RRj3SJZXONtGS1Qedr2UbSsSU/no4TD2RV19To=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -198,72 +144,6 @@
 			<key>hash2</key>
 			<data>
 			2qw+uIRNqOnvuERQBYuzXpI3MrfcpY/aMhdMVJk4ddg=
-			</data>
-		</dict>
-		<key>UnityAdsResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			35HzuuEDQL6SGxaMS5nYykNavVc=
-			</data>
-			<key>hash2</key>
-			<data>
-			0rm3GDqXb2esLTgXv26oPaa/gxrVMaP2XwbYVXKMqaA=
-			</data>
-		</dict>
-		<key>UnityAdsResources.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vmr7Tv9rcKyDvK3D48LDE7Da57Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			f3FIPJmP/SZx3Vlg4pLmKnlyAbkHD2JKFo75koJnVG4=
-			</data>
-		</dict>
-		<key>UnityAdsResources.bundle/omid-session-client-v1.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CYrPj5o14ZkSV5tSn5grkOsAghM=
-			</data>
-			<key>hash2</key>
-			<data>
-			8V5c4BLIe9MsFdcdL9C5VLmy/Z1YGNgXs4IK89k9WjU=
-			</data>
-		</dict>
-		<key>UnityAdsResources.bundle/omsdk-v1.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xFoo41tIvFKNNRq9NwW500wQtM8=
-			</data>
-			<key>hash2</key>
-			<data>
-			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
-			</data>
-		</dict>
-		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			m8dr3NuHX6PXWaEtOakNNeXc4FI=
-			</data>
-			<key>hash2</key>
-			<data>
-			S49nSyP6vbzvp7ulx9kT9wyG5K0Ct26v6G8cUX384qg=
-			</data>
-		</dict>
-		<key>UserMessagingPlatformResources.bundle/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k9OFlDPBRWfteJ+bfG12WAoBuls=
-			</data>
-			<key>hash2</key>
-			<data>
-			RbetuZ/NLZYqHIAPv8wTJbV6f6QWX0FhgjI7tf/pyQA=
 			</data>
 		</dict>
 	</dict>
